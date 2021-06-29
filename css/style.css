@@ -1,3 +1,10 @@
+#app{
+    max-width: 100%;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    height: 880px;
+}
+
 ul{
     list-style: none;
 }
@@ -5,4 +12,22 @@ ul{
 .fa-trash-alt{
    font-size:14px;
    margin-left:20px;
+}
+
+.form{
+   margin-left:40%
+}
+
+.logo{
+    margin-top:20px;
+     margin-left:30%; 
+}
+
+.logo img{
+    width: 50%;
+}
+
+.list{
+    margin-top:20px;
+    text-align: center;
 }
